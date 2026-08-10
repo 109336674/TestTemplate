@@ -1,0 +1,2 @@
+./myProject AS Directory
+./myProject/main.cpp CopyFrom ./test/main.cpp
